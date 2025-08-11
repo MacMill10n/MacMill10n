@@ -1,4 +1,11 @@
-## Hi there 👋
+## Sheadon Macmillan Little
+I like to mess around with technology and program fun and interesting projects/mods in my free time.
+
+### Currently working on publically
+
+I'm currently working on a "second brain" / a way to better store and research topics.
+
+Working my way through overthewire.org's levels to get more hand's on experience with Pentesting
 
 <!--
 **MacMill10n/MacMill10n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
