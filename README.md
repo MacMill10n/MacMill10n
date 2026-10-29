@@ -4,14 +4,18 @@ I enjoy coding games like The Farmer Was Replaced and BitBurner as well as codin
 
 ## Current Projects
 
-## Second Brain / Note system
+### HomeLab
+I am constantly working and updating my HomeLab set up to learn more in the networking space as well as make my life more connected and easier.
+More details can be found at my [HomeLab repository](https://github.com/MacMill10n/HomeLab)
+
+### Second Brain / Note system
 I'm currently working on a "second brain", better known as a way to better store and research topics.My current implementation uses Obsidian and a community plugin called LiveSync to allow for a local self-hosted synchronisation that I have complete control of. 
 
 Currently all my notes are stored and categorised into 2 major vaults:
 1. A work based vault, where I store all my projects, scribbles, and notes for the projects I am working on and any remediation I can think of to assist the company I work for.
 2. A personal vault, where I store all my notes from studying, general life, and video games that require a wiki but don't have one.
 
-## Hacking / Penetration Testing
+### Hacking / Penetration Testing
 I am currently working my way through a multitude of hacking projects and certifications jumping between the ones that are most interesting to me at the time.
 The current ones I am working through are:
 1. overthewire.org and the levels posted there.
